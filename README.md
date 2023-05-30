@@ -16,7 +16,9 @@ We are going to use different technologies such as Python, Amazon Web Services (
 3. Glue Crawler
 4. Glue Catalog
 5. EC2
+6. Amazon Athena ODBC driver(used as a connector to Power BI which is configured on ODBC Data Sources(64-bit))
 - Apache Kafka
+- Power BI
 
 
 ## Dataset Used
